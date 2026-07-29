@@ -45,12 +45,13 @@ Ao longo do desenvolvimento serão aplicados conceitos de ETL, modelagem de dado
 - Relacionamentos entre tabelas
 - Cardinalidade
 - Organização do modelo
+- Criação da Tabela Calendário
+- Relacionamento da Tabela Calendário com o modelo
 
 ---
 
 ## Em Desenvolvimento
 
-- Tabela Calendário
 - DAX
 - Medidas
 - KPIs
@@ -63,15 +64,16 @@ Ao longo do desenvolvimento serão aplicados conceitos de ETL, modelagem de dado
 
 | Etapa | Status |
 |-------|:------:|
-| ETL | Concluído |
-| Power Query | Concluído |
-| Modelagem de Dados | Concluído |
-| Cardinalidade | Concluído |
-| Tabela Calendário | Em andamento |
-| DAX | Pendente |
-| KPIs | Pendente |
-| Dashboard Interativo | Pendente |
-| Publicação | Pendente |
+| ETL | ✅ Concluído |
+| Power Query | ✅ Concluído |
+| Modelagem de Dados | ✅ Concluído |
+| Cardinalidade | ✅ Concluído |
+| Tabela Calendário | ✅ Concluído |
+| Relacionamentos da Tabela Calendário | ✅ Concluído |
+| DAX | ⏳ Em andamento |
+| KPIs | ⏳ Pendente |
+| Dashboard Interativo | ⏳ Pendente |
+| Publicação | ⏳ Pendente |
 
 ---
 
